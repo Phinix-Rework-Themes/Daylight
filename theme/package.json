@@ -1,0 +1,14 @@
+{
+  "packageId": "phinix.theme.daylight",
+  "name": "Daylight · 晴昼",
+  "author": "Phinix Rework",
+  "version": "1.0.0",
+  "phinixRange": ">=0.10.3 <1.0.0",
+  "themes": [
+    {
+      "id": "main",
+      "name": "Daylight · 晴昼",
+      "file": "theme.xml"
+    }
+  ]
+}
